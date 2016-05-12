@@ -1,16 +1,16 @@
 === Fast Custom Post ===
-Contributors: kemi90
+Contributors: imkemi
 Plugin Name: Fast Custom Post
-Plugin URI: http://enjoytripmembership.com/
+Plugin URI: https://in.linkedin.com/in/kamal-kunwar-b2618898
 Tags:Custom Post,news post,easy custom post,fast custom post
-Author URI: http://enjoytripmembership.com/
+Author URI: https://in.linkedin.com/in/kamal-kunwar-b2618898
 Author: kamal kunwar
 Stable tag: 1.1.0
 Version: 1.0.0
 Requires at least: 3.0
 Tested up to: 4.3
 License: GPLv2 or Later
-Donate link: http://enjoytripmembership.com/
+Donate link: https://in.linkedin.com/in/kamal-kunwar-b2618898
 
 Edit the permalink of custom post type.
 == Description ==
